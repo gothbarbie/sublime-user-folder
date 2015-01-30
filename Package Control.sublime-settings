@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - Phoenix",
+		"WordCount"
+	]
+}
